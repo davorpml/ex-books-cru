@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\Unit\\BookModelTest::test_get_book_from_db":4,"Warning":6,"Tests\\Unit\\ApiCallTest::test_get_call":4},"times":{"Tests\\Unit\\BookModelTest::test_get_book_from_db":0.001,"Warning":0.004,"Tests\\Unit\\ApiCallTest::test_get_call":2.291}}
